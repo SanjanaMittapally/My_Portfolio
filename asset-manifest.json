@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/My_Portfolio/static/css/main.b3f6db42.css",
+    "main.js": "/My_Portfolio/static/js/main.28cc0abc.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/My_Portfolio/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/Screenshot 2024-07-18 222320.png": "/My_Portfolio/static/media/Screenshot 2024-07-18 222320.7dacfcc3301e8fff4158.png",
+    "static/media/IMG_20240717_234759.jpg": "/My_Portfolio/static/media/IMG_20240717_234759.6b5037a1d0dc70c25d62.jpg",
+    "static/media/IMG_20240717_230837.jpg": "/My_Portfolio/static/media/IMG_20240717_230837.f7b3b19703edcb39db06.jpg",
+    "static/media/Screenshot 2024-07-19 011543.png": "/My_Portfolio/static/media/Screenshot 2024-07-19 011543.2e44d7e8940f98c42b42.png",
+    "static/media/resume_sanjana (1).pdf": "/My_Portfolio/static/media/resume_sanjana (1).db373878932910358f60.pdf",
+    "static/media/Screenshot 2024-07-19 002214.png": "/My_Portfolio/static/media/Screenshot 2024-07-19 002214.bb7ff4d13ecef3eba996.png",
+    "index.html": "/My_Portfolio/index.html",
+    "main.b3f6db42.css.map": "/My_Portfolio/static/css/main.b3f6db42.css.map",
+    "main.28cc0abc.js.map": "/My_Portfolio/static/js/main.28cc0abc.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/My_Portfolio/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3f6db42.css",
+    "static/js/main.28cc0abc.js"
+  ]
+}
